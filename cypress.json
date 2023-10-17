@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://the-internet.herokuapp.com/",
+    "watchForFileChanges" : false,
+    "viewportWidth": 800,
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.feature"
+  }
